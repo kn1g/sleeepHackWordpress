@@ -1,5 +1,5 @@
 # sleeep Hack Wordpress
-I noticed yesterday that my friend's Wordpress was hacked. At least a wp-plugin called sleeep was installed and redirects to scam sites like transandfiestas were set. But before my visitors were hijacked, I saw an error similar to: `wp-sleeeps/wp-sleeeps.php on line 26`
+I noticed yesterday that my friend's Wordpress was hacked. At least a wp-plugin called **sleeep** was installed and redirects to scam sites like transandfiestas were set. But before my visitors were hijacked, I saw an error similar to: `wp-sleeeps/wp-sleeeps.php on line 26`
 
 I could not find a lot of information about this incident, that's why I just write down what I found out so far and it might help others. 
 
